@@ -1,4 +1,5 @@
 # collaboration_spikeAnalysis
+<<<<<<< HEAD
 This repository keeps track of the progress of a collaboration and resources used with Lorenzon Fontolan for the spike analysis of Syngap
 
 # Objective
@@ -57,3 +58,6 @@ s41586-022-05144-8) and [code]()
 * Deisseroth Fig4 [paper](https://doi.org/10.1126/science.aav3932)
 * Margrie [paper](https://doi.org/10.1016/j.neuron.2021.10.031)
 * Helmchen [paper](https://www.biorxiv.org/content/10.1101/2020.07.08.193334v1)
+=======
+This repository keeps track of the progress of a collaboration and resources used with Lorenzo Fontolan for the spike analysis of Syngap1 during electrophysiological recordings.
+>>>>>>> 5227bf86b2436bc51611331f5dfbfa3f3bdfe604
